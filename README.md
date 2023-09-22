@@ -1,7 +1,8 @@
 # IN3050 
 
 
-IN3050 - Introduksjon til Maskinlæring og Kunstig Intelligens
+Dette repositoriet tar for seg oppgavene gitt i emnet IN3050 - Introduksjon til Maskinlæring og Kunstig Intelligens
+
 Kort om emnet:
 Dette emnet gir en grundig introduksjon til maskinlæring (ML) og kunstig intelligens (AI). 
 Emnet benytter en algoritmisk tilnærming og tilbyr studentene praktisk forståelse av ulike metoder gjennom implementering og eksperimentell evaluering. 
@@ -13,6 +14,6 @@ Kursinnhold
 - Ikke-veiledet Læring: Klyngeanalyse.
 - Regresjon og Optimalisering: Evolusjonære algoritmer og andre søkemetoder.
 - Forsterkende Læring: Metoder og anvendelser.
-- Design av Eksperimenter og Evaluering: Metodikk og praksis.
+
 
 ****
